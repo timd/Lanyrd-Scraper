@@ -1,0 +1,17 @@
+Lanyrd Scraper utils
+
+  This code is (will be) a set of quick Ruby
+	command-line utils to scrape Lanyrd events
+	for attendee data.
+	
+	Please don't use it for evil purposes!
+
+	Usage:
+	
+		ruby lanscraper.rb <url for Lanyrd event page> 
+	
+	To-do:
+	
+		- extend to retrieve watcher names
+		
+  v 0.1 11/04/2011
